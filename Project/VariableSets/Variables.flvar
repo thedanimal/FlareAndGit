@@ -9,5 +9,5 @@
   <Variable
     Name="ComonPhrase"
     Comment=""
-    EvaluatedDefinition="true is the tale I tell of my travels">true is the tale I tell of my travels</Variable>
+    EvaluatedDefinition="my name is ...">my name is ...</Variable>
 </CatapultVariableSet>
