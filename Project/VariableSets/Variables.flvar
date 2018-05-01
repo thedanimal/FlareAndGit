@@ -9,5 +9,5 @@
   <Variable
     Name="ComonPhrase"
     Comment=""
-    EvaluatedDefinition="all good boys deserve fudge">all good boys deserve fudge</Variable>
+    EvaluatedDefinition="true is the tale I tell of my travels">true is the tale I tell of my travels</Variable>
 </CatapultVariableSet>
