@@ -8,4 +8,8 @@
     Comment=""
     Name="UserGuide"
     BackgroundColor="Red" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="Revision marks"
+    Comment="" />
 </CatapultConditionTagSet>
